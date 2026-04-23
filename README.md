@@ -1,2 +1,7 @@
-# demo-odontologia-integral
-Demo web para Odontología integral — diseñada por eterlab.
+# Odontología integral
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
